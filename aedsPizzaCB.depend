@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1733446017 source:c:\users\Vitor Luis Lobo Barbosa\onedrive\Área de trabalho\aedspizzacb\ingrediente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingrediente.h"
+
+1733445432 c:\users\davim\onedrive\Área de trabalho\aedspizzacb\ingrediente.h
+
+1733445509 source:c:\users\davim\onedrive\Área de trabalho\aedspizzacb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pizza.h"
+	"ingrediente.h"
+
+1733446161 c:\users\davim\onedrive\Área de trabalho\aedspizzacb\pizza.h
+	"ingrediente.h"
+
+1733445416 source:c:\users\davim\onedrive\Área de trabalho\aedspizzacb\pizza.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pizza.h"
+	"ingrediente.h"
+
